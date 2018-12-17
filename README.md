@@ -1,2 +1,2 @@
 # CleanPage01
-A simple simple one page website.
+A simple one page website.
