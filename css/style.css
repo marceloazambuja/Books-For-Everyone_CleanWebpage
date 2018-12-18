@@ -7,7 +7,9 @@ body {
   padding: 0;
   color: #36384c;
   background: #e9dccd;
-  font-family: "Lato", sans-serif; }
+  font-family: 'Proza Libre', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
 
 main {
   padding-top: 80px; }
