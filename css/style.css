@@ -258,6 +258,7 @@ a, a:visited {
         width: 48%; } }
   #services .grid__image {
     height: 300px;
+    max-width: 100%;
     margin: 0 0 20px;
     background-size: cover;
     background-position: center center; }
